@@ -1,13 +1,13 @@
 👋 Hi, I’m @renatoschichi
 
-💻 Desenvolvedor Front-End
+💻 Front-End Developer
 
 🔥 Angular
 
-🚀 Ágil
+🚀 Agile
 
 😃 Team Work
 
 🏡 Working From Home
 
-Tenho experiência em desenvolvimento com HTML, CSS, JavaScript e suas bibliotecas como o Angular. Gosto muito de utilizar frameworks como bootstrap, ngx, material e primeng. Possuo conhecimento em lógica de programação, rituais do manifesto ágil e ótimo trabalho em equipe.
+I have experience in development with HTML, CSS, JavaScript and its libraries like Angular. I really like using frameworks like bootstrap, ngx, material and primeng. I have knowledge in programming logic, agile and great teamwork.
