@@ -2,7 +2,7 @@
 
 💻 Front-End Developer
 
-🔥 Angular
+🔥 Angular & React
 
 🚀 Agile
 
