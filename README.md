@@ -15,5 +15,4 @@ Experienced in web development covering HTML, CSS, JavaScript/TypeScript, React 
 Solid knowledge of clean code, agile methodologies and team collaboration. I have international experience and advanced English. Familiar with Rest API and GraphQL, Docker, PostgreSQL, MySQL, 
 AWS(S3), Firebase and git.
 
-I also have experience with tools for developing and maintaining e-
-commerce such as VTEX and Spartacus for SAP Commerce Cloud (hybris).
+I also have experience with tools for developing and maintaining e-commerce such as VTEX and Spartacus for SAP Commerce Cloud (hybris).
