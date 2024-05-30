@@ -1,8 +1,8 @@
 👋 Hi, I’m @renatoschichi
 
-💻 Front-End Developer
+💻 Full-Stack Developer
 
-🔥 Angular & React
+🔥 NodeJS - ReactJS - Angular
 
 🚀 Agile
 
@@ -10,8 +10,8 @@
 
 🏡 Working From Home
 
-I have experience in web development with HTML, CSS, JavaScript, using frameworks like React and Angular, bootstrap, ngx, material, and primeng. I also do unit tests using "Jest", to work with development best practices and ensure code quality. I know programming logic, agility, and great teamwork.
+Experiente em desenvolvimento web abrangendo HTML, CSS, JavaScript/TypeScript, React JS, Angular 2+, Jest, gerenciadores de estado como NGRX e Redux, diversas dependências de estilo, arquitetura micro front-end, compreensão de otimização de desempenho, SEO e system design.
 
-I work with git version control in all projects, following the git standard and using the GitHub/GitLab repository.
+Conhecimento sólido em clean code, metodologias ágeis e colaboração em equipe. Possuo experiência internacional e inglês avançado.
 
-I've also worked with WordPress website development for several companies, along with social media outreach work both in content generation and paid traffic, SEO, and email marketing.
+Familiarizado com API Rest e GraphQL, Docker, MySQL, Firebase e git. Também tenho experiência com ferramentas para desenvolvimento e manutenção de e-commerce como VTEX e Spartacus para SAP Commerce Cloud.
