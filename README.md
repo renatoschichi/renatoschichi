@@ -2,7 +2,7 @@
 
 💻 Full-Stack Developer
 
-🔥 NodeJS - ReactJS - Angular
+🔥 NodeJS - ReactJS - Angular 2+
 
 🚀 Agile
 
@@ -10,7 +10,7 @@
 
 🏡 Working From Home
 
-Experienced in web development covering HTML, CSS, JavaScript/TypeScript, React JS, Angular 2+, NodeJS, NestJS, Jest, state managers like NGRX and Redux, various style dependencies, micro front-end architecture, understanding of performance optimization, SEO and system design.
+Experienced in web development covering HTML, CSS, JavaScript/TypeScript, React JS, NextJS, Angular 2+, NodeJS (Express, Fastify and NestJS), NestJS, SQL, Jest, state managers like NGRX and Redux, various style dependencies, micro front-end architecture, understanding of performance optimization, SEO and system design.
 
 Solid knowledge of clean code, agile methodologies and team collaboration. I have international experience and advanced English. Familiar with Rest API and GraphQL, Docker, PostgreSQL, MySQL, 
 AWS(S3), Firebase and git.
